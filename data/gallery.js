@@ -30,4 +30,12 @@ const GALLERY = [
     medium: "digital",
     github: "aloonsballoons"
   },
+
+  {
+  title: "cheetah",
+  artist: "Zoe",
+  file: "zoe.jpg",    // must match the filename you added in step 5
+  medium: "digital",
+  github: "z0g-goody"   // optional, leave as "" to skip
+  },
 ];
