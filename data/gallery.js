@@ -31,6 +31,13 @@ const GALLERY = [
     github: "aloonsballoons"
   },
 
+    {
+    title: "plushies",
+    artist: "Min Min Bao",
+    file: "minmin.png",      
+    medium: "digital",
+    github: "minmin-bao"
+    },
   {
     title: "garden",
     artist: "Taryn Martenstyn",
