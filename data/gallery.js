@@ -30,4 +30,12 @@ const GALLERY = [
     medium: "digital",
     github: "aloonsballoons"
   },
+
+  {
+    title: "garden",
+    artist: "Taryn Martenstyn",
+    file: "witdrawing.jpg",      
+    medium: "digital",
+    github: "taryn-ayanna"
+  },
 ];
