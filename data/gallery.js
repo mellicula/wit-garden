@@ -37,5 +37,27 @@ const GALLERY = [
     file: "minmin.png",      
     medium: "digital",
     github: "minmin-bao"
+    },
+  {
+    title: "heart",
+    artist: "Dimple Rana",
+    file: "git_1.png",      
+    medium: "digital",
+    github: "dimplerana415"
+  },
+  {
+    title: "cat",
+    artist: "Dimple Rana",
+    file: "git_2.png",      
+    medium: "digital",
+    github: "dimplerana415"
+  },
+
+  {
+  title: "cheetah",
+  artist: "Zoe",
+  file: "zoe.jpg",    // must match the filename you added in step 5
+  medium: "digital",
+  github: "z0g-goody"   // optional, leave as "" to skip
   },
 ];
